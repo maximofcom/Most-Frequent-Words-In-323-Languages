@@ -1,5 +1,3 @@
----
-
 # 📚 Multilingual Wikipedia Word Frequency Lists
 
 This repository contains automatically generated **word frequency lists for all languages available in the Wikimedia Wikipedia dataset**.  
